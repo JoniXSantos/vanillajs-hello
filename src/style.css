@@ -1,1 +1,16 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: black;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#excuse {
+  color: rgb(238, 67, 67);
+  font-size: 50px;
+  font-style: italic;
+}
